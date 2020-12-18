@@ -1,4 +1,4 @@
-  <?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <extension type="file" method="upgrade" version="3.0">
     <name>Pro2Store - nl-NL</name>
     <version>1.0.0</version>
@@ -8,14 +8,12 @@
     <authorUrl>https://www.pro2.store</authorUrl>
     <copyright>Copyright (C) 2020 Pro2Store. All rights reserved.</copyright>
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-<description>
-        <![CDATA[This is the Dutch language package, initially submitted by Marijn Vlasblom and developed and maintained by the Pro2Store Community. To contribute, visit https://github.com/pro2store/dutch_translation and make a pull request.
-        ]]>
+    <description>This is the Dutch language package, initially submitted by Marijn Vlasblom and developed and maintained by the Pro2Store Community. To contribute, visit https://github.com/pro2store/dutch_translation and make a pull request.
     </description>
     <fileset>
         <files target="administrator/language/nl-NL">
             <filename>nl-NL.com_protostore.ini</filename>
             <filename>nl-NL.com_protostore.sys.ini</filename>
-            </files>
+        </files>
     </fileset>
 </extension>
